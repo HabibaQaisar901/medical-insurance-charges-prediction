@@ -64,10 +64,9 @@ BS Mathematics Student
 
 AI & Machine Learning Enthusiast
 
-LinkedIn: (Add your LinkedIn profile URL here)
+LinkedIn: (https://www.linkedin.com/in/habiba-qaisar-75a3ba421)
 
-GitHub: (Your GitHub profile)
-
+GitHub: (https://github.com/HabibaQaisar901
 License
 
 This project is licensed under the MIT License.
